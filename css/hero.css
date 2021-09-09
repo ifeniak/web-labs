@@ -1,0 +1,27 @@
+.hero {
+  background: url(../images/hero-image.svg) no-repeat right +10% bottom;
+}
+
+.hero__inner {
+  margin-top: 130px;
+  padding-bottom: 100px;
+}
+
+.hero__title {
+  width: 645px;
+  line-height: 110%;
+}
+
+.hero__paragraph {
+  width: 385px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 160%;
+}
+
+.learn-more-button {
+  background: #9C69E2;
+  margin-top: 50px;
+  font-weight: 800;
+  font-size: 18px;
+}

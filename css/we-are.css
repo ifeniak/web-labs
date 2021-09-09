@@ -1,0 +1,53 @@
+.we-are {
+  max-width: 1117px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 150px;
+  background: rgba(240, 99, 184, 0.15);
+  border-radius: 50px;
+  
+}
+
+.we-are>.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+
+
+.we-are__image {
+  margin-top: 31px;
+  margin-left: 11px;
+}
+
+.we-are__title {
+  width: 475px;
+  height: 100px;
+}
+
+.we-are__paragraph {
+  width: 380px;
+  height: 120px;
+  font-size: 18px;
+  line-height: 160%;
+}
+
+/* .intro:first-child {
+  margin-top: 120px;
+}
+
+.intro > .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.intro__inner {
+  max-width: 445px;
+}
+
+.intro__image {
+  max-width: 100%;
+} */

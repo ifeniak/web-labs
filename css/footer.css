@@ -1,0 +1,42 @@
+.footer {
+  padding-top: 133px;
+  display: flex;
+  border-top: 2px solid #9C69E2;
+}
+
+.try-for-free {
+  width: 584px;
+  height: 101px;
+  float: left;
+}
+
+.try-for-free__paragraph {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 160%;
+}
+
+.copyright__paragraph {
+  padding-top: 75px;
+  font-size: 12px;
+  line-height: 180%;
+  padding-bottom: 47px;
+}
+
+.footer__buttons {
+  width: 410px;
+  height: 60px;
+  float: right;
+  padding-bottom: 47px;
+}
+
+.footer__ending {
+  margin-top: 70px;
+}
+
+.messenger-button {
+  padding-top: 75px;
+  background: transparent;
+  float: right;
+  
+}

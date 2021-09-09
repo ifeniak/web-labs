@@ -1,0 +1,66 @@
+body {
+  background: linear-gradient(180deg, #F6FAFD 0%, #FFFFFF 19.4%);
+  font-family: "Avenir", sans-serif;
+  color: #4B5D68;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  display: block;
+}
+
+p {
+  margin: 0;
+}
+
+button {
+  border: 0;
+  cursor: pointer;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Helvetica;
+  color: #212353;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 80px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+/* Global classes */
+
+.container {
+  margin: 0 auto;
+  max-width: 1117px;
+}
+
+.learn-more-button {
+  border-radius: 50px;
+  color: #fff;
+  width: 170px;
+  height: 60px;
+}
+
+.request-demo-button {
+  width: 210px;
+  height: 60px;
+  font-weight: 800;
+  background: #FFFFFF;
+  margin-left: auto;
+  box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+  border-radius: 50px;
+  
+}

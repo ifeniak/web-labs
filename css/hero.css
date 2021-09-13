@@ -1,5 +1,6 @@
 .hero {
   position: relative;
+  margin-left: 15%;
   max-width: 1248px;
   max-height: 748px;
 }

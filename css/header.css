@@ -1,0 +1,23 @@
+.header {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.header__logo {
+  margin-right: 121px;
+}
+
+.header__nav ul {
+  display: flex;
+}
+
+.header__nav-first-item {
+  margin-right: 40px;
+  font-weight: 800;
+}
+
+.header__nav-item {
+  margin-right: 40px;
+  font-weight: 500;
+}
